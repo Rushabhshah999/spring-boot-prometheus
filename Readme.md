@@ -22,3 +22,5 @@ http://localhost:3000/ -- grafana login using admin/admin
 create new dashboard and new datasource as prometheus. prometheus url will
 http://prometheus:9090
 
+http://localhost:9090/targets --- Prometheus is running
+
